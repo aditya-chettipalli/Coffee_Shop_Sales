@@ -1,68 +1,51 @@
 # Coffee Shop Sales
-## Project Overview
-This project features a comprehensive sales dashboard for a coffee shop, created using Excel and Power BI. The dashboard provides insights into various aspects of sales performance, visualizing data on total sales, footfall, average bill per person, average order per person, and other key metrics. It offers a clear and detailed understanding of the coffee shop's business dynamics, leveraging pivot tables and data cleaning techniques.
+## Overview
+This Excel and Power BI dashboard is designed to provide a comprehensive analysis of coffee shop sales data. It helps business owners and stakeholders make informed, data-driven decisions by visualizing key metrics and trends related to sales performance.
 
-## Dashboard Components
-The dashboard is divided into several sections, each highlighting different aspects of the coffee shop's sales performance:
+## Features
 
-### Total Sales and Footfall
+Sales Analysis: Visualizes sales performance segmented by product categories, store locations, and time.
 
+Interactive Visualizations: Includes line graphs, pie charts, and bar graphs to present complex data in an easily interpretable format.
+
+Strategic Insights: Highlights critical trends and patterns, such as peak sales hours and top-selling products.
+## Key Metrics
 Total Sales: $698,812.33
-Total Footfall: 149,116
 
-### Average Metrics
+Total Footfall: 149,116
 
 Average Bill per Person: 4.69
 
 Average Order per Person: 1.4
+## Detailed Metrics
 
-### Quantity Ordered Based on Hours
+Quantity Ordered Based on Hours: Analysis of the quantity of orders throughout different hours of the day.
 
-Line graph showing the quantity of orders throughout different hours of the day.
+Category % Distribution Based on Sales: Breakdown of sales by product categories such as Bakery, Branded, Coffee, etc.
 
-### Category % Distribution Based on Sales
+% Size Distribution Based on Orders: Distribution of order sizes (Large, Not Defined, Regular, Small).
 
-Pie chart depicting the percentage distribution of sales across different product categories such as Bakery, Branded, Coffee, Coffee Beans, Drinking Chocolate, Flavours, Loose Tea, Packaged Chocolate, and Tea.
-### % Size Distribution Based on Orders
+Footfall and Sales Over Various Locations: Comparison of footfall and sales across store locations (Astoria, Hell's Kitchen, Lower Manhattan).
 
-Pie chart illustrating the distribution of order sizes (Large, Not Defined, Regular, Small).
+Top 5 Products Based on Sales: Sales performance of top-selling products.
 
-### Footfall and Sales Over Various Locations
+Orders on Weekdays: Analysis of the number of orders received on each day of the week.
 
-Bar chart comparing footfall and sales across three store locations: Astoria, Hell's Kitchen, and Lower Manhattan.
+## Dashboard Screenshots
+Refer to the screenshots of the dashboard in the files.
 
-### Top 5 Products Based on Sales
-
-Bar chart listing the top 5 products by sales: Barista Espresso, Brewed Black Tea, Brewed Chai Tea, Gourmet Brewed Coffee, and Hot Chocolate.
-### Orders on Weekdays
-
-Bar chart showing the number of orders received on each day of the week.
-## Data Source
-The dashboard is based on a dataset that records individual transactions, including details such as:
-
-Transaction ID
-
-Transaction Date and Time
-
-Store ID and Location
-
-Product ID, Category, Type, and Detail
-
-Transaction Quantity and Unit Price
-
-Size and Total Bill
-
-Date and Time specifics (Month Name, Day Name, Hour, Month, Day of Week)
-
+## Usage
+### Filtering
+Use the filters on the dashboard to drill down into specific data points such as Month Name and Day Name.
+### Interactivity
+Hover over charts and graphs for detailed tooltips and additional information.
+### Exporting
+Export the dashboard or specific visualizations as needed for reports or presentations.
 ## Tools Used
 
 ### Microsoft Excel
-
 Pivot Tables: Used to summarize and analyze the data.
-
 Charts and Graphs: Created various visual representations of the data.
 ### Power BI
-
 Data Cleaning: Utilized Power Query for data transformation and cleaning.
-
 Data Integration: Integrated cleaned data into Excel for analysis.
