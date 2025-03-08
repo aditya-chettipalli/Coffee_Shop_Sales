@@ -1,6 +1,6 @@
 # Coffee Shop Sales
 ## Overview
-This Excel and Power BI dashboard is designed to provide a comprehensive analysis of coffee shop sales data. It helps business owners and stakeholders make informed, data-driven decisions by visualizing key metrics and trends related to sales performance.
+This Excel dashboard is designed to provide a comprehensive analysis of coffee shop sales data. It helps business owners and stakeholders make informed, data-driven decisions by visualizing key metrics and trends related to sales performance.
 
 ## Features
 
