@@ -46,6 +46,6 @@ Export the dashboard or specific visualizations as needed for reports or present
 ### Microsoft Excel
 Pivot Tables: Used to summarize and analyze the data.
 Charts and Graphs: Created various visual representations of the data.
-### Power BI
+### Power Query
 Data Cleaning: Utilized Power Query for data transformation and cleaning.
-Data Integration: Integrated cleaned data into Excel for analysis.
+Data Integration: Integrated cleaned data into Excel for analysis and visualization.
